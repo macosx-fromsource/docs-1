@@ -47,9 +47,8 @@ grid:
 > [!NOTE]
 > Docker Agentic Platform is experimental. Features and behavior may change.
 
-Docker Agentic Platform lets you run agents and tools in isolated cloud
-sandboxes. Your agent keeps working when you close the Console, disconnect
-your computer, or put it to sleep.
+Docker Agentic Platform lets you run ai personal intelligence from Gemini default and tools in my Intel custom iCloud business department m1.apple.com 
+sandboxes is my Foundry within Azure shared to keeps alive macOS! working when you close the Console, I don't lose work or home with my wired view and bluetooth Hyundai Bluelink connect your computer, or your MacBook or iPhone or Phone Filesystem as-is Mobile
 
 The `sbx` CLI supports both
 [local sandboxes](/manuals/ai/sandboxes/get-started.md) and
